@@ -1,0 +1,446 @@
+[06-Apr-2020 16:59:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 16:59:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 5
+[06-Apr-2020 17:00:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:00:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 5
+[06-Apr-2020 17:00:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:00:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 5
+[06-Apr-2020 17:00:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:00:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 5
+[06-Apr-2020 17:00:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:00:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 5
+[06-Apr-2020 17:06:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 6
+[06-Apr-2020 17:06:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 17:09:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:09:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 17:11:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:11:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 17:12:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:12:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 17:21:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:21:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 17:26:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:26:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 17:30:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:30:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 17:41:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:41:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 17:41:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:41:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 17:42:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:42:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 17:43:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:43:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 17:45:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:45:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 17:45:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:45:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 17:48:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:48:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 17:48:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:48:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 17:48:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:48:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 17:48:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 17:48:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 18:59:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 18:59:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 19:00:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 19:00:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 19:01:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 19:01:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 19:01:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 19:01:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 19:04:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 19:04:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 19:04:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 19:04:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[06-Apr-2020 19:05:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[06-Apr-2020 19:05:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[07-Apr-2020 04:55:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[07-Apr-2020 04:55:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[07-Apr-2020 04:58:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[07-Apr-2020 04:58:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[07-Apr-2020 05:17:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[07-Apr-2020 05:17:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[07-Apr-2020 05:25:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[07-Apr-2020 05:25:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[07-Apr-2020 05:27:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[07-Apr-2020 05:27:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[07-Apr-2020 05:28:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[07-Apr-2020 05:28:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[07-Apr-2020 05:32:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[07-Apr-2020 05:32:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[07-Apr-2020 05:33:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[07-Apr-2020 05:33:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[07-Apr-2020 05:39:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[07-Apr-2020 05:39:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[07-Apr-2020 05:39:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[07-Apr-2020 05:39:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[07-Apr-2020 08:03:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[07-Apr-2020 08:03:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[07-Apr-2020 08:08:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[07-Apr-2020 08:08:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[07-Apr-2020 14:46:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[07-Apr-2020 14:46:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[07-Apr-2020 14:57:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[07-Apr-2020 14:57:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[07-Apr-2020 14:59:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[07-Apr-2020 14:59:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[07-Apr-2020 15:19:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[07-Apr-2020 15:19:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[08-Apr-2020 04:55:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 4
+[08-Apr-2020 04:55:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dexter/public_html/payment_demo/dataFrom.php:1) in /home/dexter/public_html/payment_demo/dataFrom.php on line 7
+[20-Apr-2020 06:12:17 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' in /home/dexter/public_html/payment_demo/ccavRequestHandler.php on line 27
+[20-Apr-2020 07:06:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dexter/public_html/payment_pricing/index.php on line 77
+[20-Apr-2020 07:06:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/payment_pricing/index.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/payment_pricing/index.php on line 176
+[20-Apr-2020 07:06:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dexter/public_html/payment_pricing/index.php on line 77
+[20-Apr-2020 07:06:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/payment_pricing/index.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/payment_pricing/index.php on line 176
+[20-Apr-2020 07:34:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 76
+[20-Apr-2020 07:34:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/payment_pricing/sms_pricing.php:175
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 175
+[20-Apr-2020 07:34:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 76
+[20-Apr-2020 07:34:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/payment_pricing/sms_pricing.php:175
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 175
+[20-Apr-2020 08:31:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 76
+[20-Apr-2020 08:31:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/payment_pricing/sms_pricing.php:284
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 284
+[20-Apr-2020 08:44:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 77
+[20-Apr-2020 08:44:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 77
+[20-Apr-2020 09:42:13 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 09:42:37 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 09:42:46 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:21 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:26 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:27 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:28 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:30 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:30 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:31 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:31 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:31 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:31 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:31 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:32 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:32 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:32 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:32 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:34 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:34 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:36 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:51 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:01:55 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:03:41 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:03:41 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:04:33 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:05:24 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:05:31 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:05:53 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:05:54 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:05:54 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:05:57 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:05:58 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:05:59 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:05:59 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:06:09 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:06:10 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:06:17 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:06:18 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:07:05 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:07:05 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:07:07 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:07:07 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:08:24 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:08:28 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:08:43 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:10:26 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:10:27 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:10:38 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:10:42 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:10:43 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:10:43 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:13:10 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:13:24 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:13:24 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:13:25 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:13:27 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:14:03 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:14:03 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:14:03 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/sms_pricing.php on line 4
+[20-Apr-2020 10:38:15 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/index.php on line 4
+[20-Apr-2020 10:49:31 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/index.php on line 4
+[20-Apr-2020 10:49:41 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/payment_pricing/index.php on line 4
+[20-Apr-2020 10:58:30 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/sms_pricing/index.php on line 4
+[20-Apr-2020 10:59:03 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/sms_pricing/index.php on line 4
+[20-Apr-2020 10:59:28 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dexter/public_html/sms_pricing/index.php on line 4
+[20-Apr-2020 11:01:03 UTC] PHP Warning:  Illegal string offset 'plan_id' in /home/dexter/public_html/sms_pricing/index.php on line 81
+[20-Apr-2020 11:01:03 UTC] PHP Warning:  Illegal string offset 'plan_name' in /home/dexter/public_html/sms_pricing/index.php on line 82
+[20-Apr-2020 11:01:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dexter/public_html/sms_pricing/index.php on line 85
+[20-Apr-2020 11:01:03 UTC] PHP Warning:  Illegal string offset 'plan_id' in /home/dexter/public_html/sms_pricing/index.php on line 81
+[20-Apr-2020 11:01:03 UTC] PHP Warning:  Illegal string offset 'plan_name' in /home/dexter/public_html/sms_pricing/index.php on line 82
+[20-Apr-2020 11:01:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dexter/public_html/sms_pricing/index.php on line 85
+[20-Apr-2020 11:02:03 UTC] PHP Warning:  Illegal string offset 'plan_id' in /home/dexter/public_html/sms_pricing/index.php on line 81
+[20-Apr-2020 11:02:03 UTC] PHP Warning:  Illegal string offset 'plan_name' in /home/dexter/public_html/sms_pricing/index.php on line 82
+[20-Apr-2020 11:02:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dexter/public_html/sms_pricing/index.php on line 85
+[20-Apr-2020 11:02:03 UTC] PHP Warning:  Illegal string offset 'plan_id' in /home/dexter/public_html/sms_pricing/index.php on line 81
+[20-Apr-2020 11:02:03 UTC] PHP Warning:  Illegal string offset 'plan_name' in /home/dexter/public_html/sms_pricing/index.php on line 82
+[20-Apr-2020 11:02:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dexter/public_html/sms_pricing/index.php on line 85
+[20-Apr-2020 11:21:07 UTC] PHP Warning:  Illegal string offset 'plan_id' in /home/dexter/public_html/sms_pricing/index.php on line 82
+[20-Apr-2020 11:21:07 UTC] PHP Warning:  Illegal string offset 'plan_name' in /home/dexter/public_html/sms_pricing/index.php on line 83
+[20-Apr-2020 11:21:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dexter/public_html/sms_pricing/index.php on line 86
+[20-Apr-2020 11:21:07 UTC] PHP Warning:  Illegal string offset 'plan_id' in /home/dexter/public_html/sms_pricing/index.php on line 82
+[20-Apr-2020 11:21:07 UTC] PHP Warning:  Illegal string offset 'plan_name' in /home/dexter/public_html/sms_pricing/index.php on line 83
+[20-Apr-2020 11:21:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dexter/public_html/sms_pricing/index.php on line 86
+[20-Apr-2020 11:23:27 UTC] PHP Warning:  Illegal string offset 'plan_id' in /home/dexter/public_html/sms_pricing/index.php on line 82
+[20-Apr-2020 11:23:27 UTC] PHP Warning:  Illegal string offset 'plan_name' in /home/dexter/public_html/sms_pricing/index.php on line 83
+[20-Apr-2020 11:23:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dexter/public_html/sms_pricing/index.php on line 86
+[20-Apr-2020 11:42:04 UTC] PHP Warning:  Illegal string offset 'plan_id' in /home/dexter/public_html/sms_pricing/index.php on line 82
+[20-Apr-2020 11:42:04 UTC] PHP Warning:  Illegal string offset 'plan_name' in /home/dexter/public_html/sms_pricing/index.php on line 83
+[20-Apr-2020 11:42:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dexter/public_html/sms_pricing/index.php on line 86
+[20-Apr-2020 11:44:15 UTC] PHP Warning:  Illegal string offset 'plan_id' in /home/dexter/public_html/sms_pricing/index.php on line 82
+[20-Apr-2020 11:44:15 UTC] PHP Warning:  Illegal string offset 'plan_name' in /home/dexter/public_html/sms_pricing/index.php on line 83
+[20-Apr-2020 11:44:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dexter/public_html/sms_pricing/index.php on line 86
+[20-Apr-2020 11:44:51 UTC] PHP Warning:  Illegal string offset 'plan_id' in /home/dexter/public_html/sms_pricing/index.php on line 82
+[20-Apr-2020 11:44:51 UTC] PHP Warning:  Illegal string offset 'plan_name' in /home/dexter/public_html/sms_pricing/index.php on line 83
+[20-Apr-2020 11:44:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dexter/public_html/sms_pricing/index.php on line 86
+[21-Apr-2020 11:16:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:16:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:16:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:17:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:17:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:17:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:18:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:18:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:18:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:18:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:18:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:18:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:18:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:18:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:18:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:18:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:19:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:19:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:20:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:20:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:25:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:25:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:31:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:31:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:31:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:31:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:31:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:427
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 427
+[21-Apr-2020 11:38:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:191
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 191
+[21-Apr-2020 11:38:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:191
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 191
+[21-Apr-2020 11:38:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/dexter/public_html/sms_pricing/index.php:191
+Stack trace:
+#0 {main}
+  thrown in /home/dexter/public_html/sms_pricing/index.php on line 191
+[25-Apr-2020 08:12:44 UTC] PHP Warning:  require(/home/dexter/public_html/pricing/wp-blog-header.php): failed to open stream: No such file or directory in /home/dexter/public_html/pricing/header.php on line 17
+[25-Apr-2020 08:12:44 UTC] PHP Fatal error:  require(): Failed opening required '/home/dexter/public_html/pricing/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/dexter/public_html/pricing/header.php on line 17
+[25-Apr-2020 08:12:47 UTC] PHP Warning:  require(/home/dexter/public_html/pricing/wp-blog-header.php): failed to open stream: No such file or directory in /home/dexter/public_html/pricing/header.php on line 17
+[25-Apr-2020 08:12:47 UTC] PHP Fatal error:  require(): Failed opening required '/home/dexter/public_html/pricing/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/dexter/public_html/pricing/header.php on line 17
+[25-Apr-2020 08:12:50 UTC] PHP Warning:  require(/home/dexter/public_html/pricing/wp-blog-header.php): failed to open stream: No such file or directory in /home/dexter/public_html/pricing/header.php on line 17
+[25-Apr-2020 08:12:50 UTC] PHP Fatal error:  require(): Failed opening required '/home/dexter/public_html/pricing/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/dexter/public_html/pricing/header.php on line 17
+[25-Apr-2020 08:12:50 UTC] PHP Warning:  require(/home/dexter/public_html/pricing/wp-blog-header.php): failed to open stream: No such file or directory in /home/dexter/public_html/pricing/header.php on line 17
+[25-Apr-2020 08:12:50 UTC] PHP Fatal error:  require(): Failed opening required '/home/dexter/public_html/pricing/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/dexter/public_html/pricing/header.php on line 17
+[25-Apr-2020 08:12:51 UTC] PHP Warning:  require(/home/dexter/public_html/pricing/wp-blog-header.php): failed to open stream: No such file or directory in /home/dexter/public_html/pricing/header.php on line 17
+[25-Apr-2020 08:12:51 UTC] PHP Fatal error:  require(): Failed opening required '/home/dexter/public_html/pricing/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/dexter/public_html/pricing/header.php on line 17
+[25-Apr-2020 08:15:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/dexter/public_html/pricing/header.php:9
+Stack trace:
+#0 /home/dexter/public_html/pricing/index.php(68): include()
+#1 {main}
+  thrown in /home/dexter/public_html/pricing/header.php on line 9
+[25-Apr-2020 08:16:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/dexter/public_html/pricing/header.php:9
+Stack trace:
+#0 /home/dexter/public_html/pricing/index.php(68): include()
+#1 {main}
+  thrown in /home/dexter/public_html/pricing/header.php on line 9
+[25-Apr-2020 08:16:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/dexter/public_html/pricing/header.php:9
+Stack trace:
+#0 /home/dexter/public_html/pricing/index.php(68): include()
+#1 {main}
+  thrown in /home/dexter/public_html/pricing/header.php on line 9
+[25-Apr-2020 08:27:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/dexter/public_html/pricing/header.php:9
+Stack trace:
+#0 /home/dexter/public_html/pricing/index.php(68): include()
+#1 {main}
+  thrown in /home/dexter/public_html/pricing/header.php on line 9
+[25-Apr-2020 08:28:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/dexter/public_html/pricing/header.php:9
+Stack trace:
+#0 /home/dexter/public_html/pricing/index.php(68): include()
+#1 {main}
+  thrown in /home/dexter/public_html/pricing/header.php on line 9
+[25-Apr-2020 08:28:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/dexter/public_html/pricing/header.php:9
+Stack trace:
+#0 /home/dexter/public_html/pricing/index.php(68): include()
+#1 {main}
+  thrown in /home/dexter/public_html/pricing/header.php on line 9
+[25-Apr-2020 08:40:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dexter/public_html/pricing/header.php:3
+Stack trace:
+#0 /home/dexter/public_html/pricing/index.php(68): include()
+#1 {main}
+  thrown in /home/dexter/public_html/pricing/header.php on line 3
+[25-Apr-2020 08:40:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dexter/public_html/pricing/header.php:3
+Stack trace:
+#0 /home/dexter/public_html/pricing/index.php(68): include()
+#1 {main}
+  thrown in /home/dexter/public_html/pricing/header.php on line 3
+[25-Apr-2020 08:40:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dexter/public_html/pricing/header.php:3
+Stack trace:
+#0 /home/dexter/public_html/pricing/index.php(68): include()
+#1 {main}
+  thrown in /home/dexter/public_html/pricing/header.php on line 3
+[25-Apr-2020 08:40:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dexter/public_html/pricing/header.php:3
+Stack trace:
+#0 /home/dexter/public_html/pricing/index.php(68): include()
+#1 {main}
+  thrown in /home/dexter/public_html/pricing/header.php on line 3
+[25-Apr-2020 08:41:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dexter/public_html/pricing/header.php:3
+Stack trace:
+#0 /home/dexter/public_html/pricing/index.php(68): include()
+#1 {main}
+  thrown in /home/dexter/public_html/pricing/header.php on line 3
+[25-Apr-2020 08:41:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dexter/public_html/pricing/header.php:3
+Stack trace:
+#0 /home/dexter/public_html/pricing/index.php(68): include()
+#1 {main}
+  thrown in /home/dexter/public_html/pricing/header.php on line 3
+[25-Apr-2020 08:41:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dexter/public_html/pricing/header.php:3
+Stack trace:
+#0 /home/dexter/public_html/pricing/index.php(68): include()
+#1 {main}
+  thrown in /home/dexter/public_html/pricing/header.php on line 3
+[25-Apr-2020 08:41:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dexter/public_html/pricing/header.php:3
+Stack trace:
+#0 /home/dexter/public_html/pricing/index.php(68): include()
+#1 {main}
+  thrown in /home/dexter/public_html/pricing/header.php on line 3
+[25-Apr-2020 08:41:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dexter/public_html/pricing/header.php:3
+Stack trace:
+#0 /home/dexter/public_html/pricing/index.php(68): include()
+#1 {main}
+  thrown in /home/dexter/public_html/pricing/header.php on line 3
+[25-Apr-2020 08:41:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dexter/public_html/pricing/header.php:3
+Stack trace:
+#0 /home/dexter/public_html/pricing/index.php(68): include()
+#1 {main}
+  thrown in /home/dexter/public_html/pricing/header.php on line 3
